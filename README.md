@@ -1,5 +1,6 @@
 # bci-gpu-miner
-## Bitcoin Interest GPU Miner - Equihash 
+## Bitcoin Interest Miner - GPU based on Equihash 
+
 
 
 
@@ -20,3 +21,9 @@ Run
 docker run --restart always -i -d bci-gpu 
 
 ```
+
+Bugs and Issues
+
+Have a bug or an issue with this template? Open a new issue here on GitHub or leave a comment on the [twitter](http://twitter.com/andrewpsp)
+
+[nanopool-ewbf-realease](https://github.com/nanopool/ewbf-miner/releases): referenced repo
