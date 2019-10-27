@@ -1,6 +1,8 @@
 # bci-gpu-miner
 ## Bitcoin Interest Miner - GPU based on Equihash 
 
+# Hardware overview - NVIDIA® Tesla® V100 Tensor Core w/ optimized AMI and ENI settings
+
 
 
 
